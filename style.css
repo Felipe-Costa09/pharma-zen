@@ -51,3 +51,8 @@ nav.navbar  ol {
     color: #fff;
 
 }
+
+/*##### Hero #####*/
+div.hero img {
+    width: 100%;
+}
