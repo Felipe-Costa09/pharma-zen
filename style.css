@@ -56,3 +56,19 @@ nav.navbar  ol {
 div.hero img {
     width: 100%;
 }
+
+div.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+div.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
