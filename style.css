@@ -81,3 +81,13 @@ div.content {
     font-family: Roboto;
     line-height: 100%;
 }
+div.covid-test-content{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+div.covid-test-content img {
+    width: 90%;
+}
